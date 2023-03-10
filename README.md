@@ -95,4 +95,7 @@ end
 
 The S.T.A.R. Guide provides a framework to help understand, track, and assist in the navigation of projects that are part of the Unified Business Framework (UBF). It consists of four components: SPACE, which defines where the project sits inside its business solar system; TRACK, which provides a path through time and space that can be articulated through roadmapping and product journeys; ASSIST, which allows for integration and interaction with the project; and REACH, which summarizes the projected path of the project and the vision of how it will head towards a Super Nova event. The S.T.A.R. Guide helps organizations in planning large-scale project management and navigating multiple projects and organizations simultaneously and provides a framework for understanding, predicting, and directing decisions across entire industries.
 
+# DROID Ops
 
+---
+We are specialists in building Droids, we want employees to focus on the main criteria of the D.R.O.I.D. Ops. (Design, Research, Optimze, Integrate, Deliver) Operations.  The "Operations" portion focuses heavily on collaboration, communication, creative thinking, agile/lean philosophy, and deep cyber security practices. We call them "DROIDs" because we build technology and send them out to various transports. 
